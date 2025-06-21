@@ -29,6 +29,15 @@ Claude Codeの包括的なtipsとベストプラクティス集です。初期�
 - 実践的な使用例とカスタマイズ方法
 - トラブルシューティングとFAQ
 
+### [サンプルファイル集](./examples/)
+知識管理システムで使用する各ファイルの実用的なサンプル集です。
+- [CLAUDE.md](./examples/CLAUDE.md) - プロジェクト設定ファイルのサンプル（React/TypeScript Eコマースアプリ例）
+- [context.md](./examples/context.md) - ビジネス背景とプロジェクトコンテキストのサンプル
+- [project-knowledge.md](./examples/project-knowledge.md) - 技術的な深い知識とアーキテクチャ決定のサンプル
+- [project-improvements.md](./examples/project-improvements.md) - 改善履歴とログのサンプル
+- [common-patterns.md](./examples/common-patterns.md) - よく使うコードパターンとClaude Codeコマンド例
+- [debug-log.md](./examples/debug-log.md) - デバッグログと問題解決の記録サンプル
+
 
 ## 使い方
 
