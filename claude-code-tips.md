@@ -101,6 +101,39 @@ claude --dangerously-skip-permissions
 - チーム全体で共有すべき知識
 - [サンプルファイル](examples/debug-log.md)
 
+### テンプレートファイルの活用
+
+このリポジトリには、新しいプロジェクトですぐに使えるテンプレートファイルも用意されています：
+
+```
+templates/
+├── CLAUDE.md              # プロジェクト設定テンプレート
+├── context.md             # プロジェクトコンテキストテンプレート
+├── project-knowledge.md   # 技術知識記録テンプレート
+├── project-improvements.md # 改善ログテンプレート
+├── common-patterns.md     # パターン集テンプレート
+└── debug-log.md          # デバッグログテンプレート
+```
+
+#### テンプレートファイルの特徴
+- **汎用的な構造**: プロジェクト固有の内容を除き、どのプロジェクトでも使える形式
+- **記入ガイド**: `[項目名]` 形式で何を記載すべきかを明示
+- **サンプル例**: 理解しやすいように記入例を含む
+- **コピー＆カスタマイズ**: そのままコピーして自分のプロジェクトに合わせて編集可能
+
+#### 使用方法
+1. templatesディレクトリ内の必要なファイルをプロジェクトの`.claude/`ディレクトリにコピー
+2. `[項目名]` の部分をプロジェクト固有の内容に置き換え
+3. 不要なセクションは削除、必要に応じて新しいセクションを追加
+
+#### テンプレートファイルリンク
+- [CLAUDE.mdテンプレート](templates/CLAUDE.md)
+- [context.mdテンプレート](templates/context.md)
+- [project-knowledge.mdテンプレート](templates/project-knowledge.md)
+- [project-improvements.mdテンプレート](templates/project-improvements.md)
+- [common-patterns.mdテンプレート](templates/common-patterns.md)
+- [debug-log.mdテンプレート](templates/debug-log.md)
+
 ## プロンプト戦略
 
 ### 効果的なプロンプトの原則
