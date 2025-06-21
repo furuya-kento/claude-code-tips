@@ -40,7 +40,7 @@ claude --dangerously-skip-permissions
 ### プロジェクトの初期化
 1. まず、プロジェクトの概要を理解させる
    ```
-   > summarize this project
+   > このプロジェクトの概要を説明してください
    ```
 
 2. `CLAUDE.md`ファイルを作成
