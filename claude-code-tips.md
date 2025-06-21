@@ -69,31 +69,37 @@ claude --dangerously-skip-permissions
 - プロジェクト固有の設定とガイダンス
 - ビルドコマンド、テストコマンドなど
 - コーディング規約やスタイルガイド
+- [サンプルファイル](examples/CLAUDE.md)
 
 #### context.md
 - プロジェクトの背景情報
 - ビジネス要件
 - 技術的制約
+- [サンプルファイル](examples/context.md)
 
 #### project-knowledge.md
 - プロジェクト固有の技術的知識
 - 依存関係の詳細
 - アーキテクチャの決定事項
+- [サンプルファイル](examples/project-knowledge.md)
 
 #### project-improvements.md
 - 実施した改善の記録
 - 学んだ教訓
 - 今後の改善案
+- [サンプルファイル](examples/project-improvements.md)
 
 #### common-patterns.md
 - よく使うコマンドの組み合わせ
 - 頻出する問題の解決パターン
 - カスタムスニペット
+- [サンプルファイル](examples/common-patterns.md)
 
 #### debug-log.md
 - 30分以上かかった問題の記録
 - 再発する可能性のある問題
 - チーム全体で共有すべき知識
+- [サンプルファイル](examples/debug-log.md)
 
 ## プロンプト戦略
 
