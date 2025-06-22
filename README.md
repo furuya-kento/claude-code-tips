@@ -57,15 +57,7 @@ Claude Codeの包括的なtipsとベストプラクティス集です。初期�
 
 このリポジトリの作成にあたって参考にした記事やリンクの一覧です：
 
-- [X (Twitter) - robj3d3のポスト](https://x.com/robj3d3/status/1935466820959617479)
-- [Zenn - Claude Codeで素早くアプリケーションをつくる](https://zenn.dev/hokuto_tech/articles/86d1edb33da61a)
-- [Zenn - Claude Codeのtipsと使い方](https://zenn.dev/medicalforce/articles/8bc0b6afbbb8a7)
-- [Zenn - Claude Codeの使い方とベストプラクティス](https://zenn.dev/driller/articles/2a23ef94f1d603)
-
-## 貢献
-
-新しいtipsや改善案がある場合は、PRを歓迎します。
-
-## ライセンス
-
-このリポジトリの内容は自由に使用・改変できます。
+- https://x.com/robj3d3/status/1935466820959617479
+- https://zenn.dev/hokuto_tech/articles/86d1edb33da61a
+- https://zenn.dev/medicalforce/articles/8bc0b6afbbb8a7
+- https://zenn.dev/driller/articles/2a23ef94f1d603
