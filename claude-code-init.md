@@ -121,4 +121,4 @@
 ## 参考資料
 
 詳細なtipsとベストプラクティスについては、以下を参照：
-- [Claude Code Tips](https://github.com/your-repo/claude-code-tips/blob/main/claude-code-tips.md)
+- [Claude Code Tips](./claude-code-tips.md)

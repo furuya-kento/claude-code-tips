@@ -17,14 +17,14 @@ cd my-project
 
 ### ステップ2: claude-code-init.mdの配置
 
-[claude-code-init.md](https://github.com/your-repo/claude-code-tips/blob/main/claude-code-init.md)をダウンロードして、プロジェクトのルートディレクトリに配置します。
+[claude-code-init.md](./claude-code-init.md)をダウンロードして、プロジェクトのルートディレクトリに配置します。
 
 ```bash
 # wgetを使用する場合
-wget https://raw.githubusercontent.com/your-repo/claude-code-tips/main/claude-code-init.md
+wget https://raw.githubusercontent.com/furuya-kento/claude-code-tips/main/claude-code-init.md
 
 # またはcurlを使用する場合
-curl -O https://raw.githubusercontent.com/your-repo/claude-code-tips/main/claude-code-init.md
+curl -O https://raw.githubusercontent.com/furuya-kento/claude-code-tips/main/claude-code-init.md
 ```
 
 ### ステップ3: Claude Codeの起動
@@ -102,7 +102,7 @@ npx create-react-app my-app
 cd my-app
 
 # 2. claude-code-init.mdを配置
-curl -O https://raw.githubusercontent.com/your-repo/claude-code-tips/main/claude-code-init.md
+curl -O https://raw.githubusercontent.com/furuya-kento/claude-code-tips/main/claude-code-init.md
 
 # 3. Claude Codeを起動
 claude
@@ -121,7 +121,7 @@ claude
 cd existing-project
 
 # 2. claude-code-init.mdを配置
-wget https://raw.githubusercontent.com/your-repo/claude-code-tips/main/claude-code-init.md
+wget https://raw.githubusercontent.com/furuya-kento/claude-code-tips/main/claude-code-init.md
 
 # 3. Claude Codeを起動して初期化
 claude
@@ -186,4 +186,4 @@ A: プロジェクトに関する追加情報を提供：
 
 ## サポート
 
-問題や質問がある場合は、[GitHubのIssue](https://github.com/your-repo/claude-code-tips/issues)で報告してください。
+問題や質問がある場合は、[GitHubのIssue](https://github.com/furuya-kento/claude-code-tips/issues)で報告してください。
